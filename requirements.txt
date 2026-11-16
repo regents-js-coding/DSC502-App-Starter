@@ -1,5 +1,13 @@
-streamlit
-plotly
 pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+streamlit
+openai
 anthropic
+jupyter
+duckdb
 python-dotenv
+requests
